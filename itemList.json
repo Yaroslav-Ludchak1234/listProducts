@@ -9,6 +9,7 @@
         "chapter": "Passat",
         "urlProduct": "https://auto.ria.com/uk/auto_volkswagen_passat_alltrack_33437337.html"
     },
+ 
     {
         "name": "Audi e-tron 2020",
         "salePrice": "47300",
@@ -21,6 +22,7 @@
         "urlProduct": "https://auto.ria.com/uk/auto_audi_e_tron_33441160.html"
 
     },
+ 
     {
         "name": "Volkswagen ID.4 Prime",
         "salePrice": "50000",
@@ -46,6 +48,7 @@
         "urlProduct": "https://auto.ria.com/uk/auto_renault_megane_33129885.html"
 
     },
+ 
     {
         "name": "Audi A6 2012",
         "salePrice": "17400",
